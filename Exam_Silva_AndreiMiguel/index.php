@@ -64,8 +64,7 @@ session_start();
           
           
         
-          <a href="register.php" class="btn-outline">Sign up</a>
-          <a href="login.php" class="btn-outline">Login</a>
+          
         
       </div>
     </nav>
@@ -75,8 +74,8 @@ session_start();
       <h1>Luwmi</h1>
       <p>The best site for Anime.</p>
       <div class="hero-buttons">
-        <a href="register.php" class="btn-hero-outline">Get Started</a>
-        <a href="login.php" class="btn-hero-primary">Create An Account</a>
+        <a href="register.php" class="btn-hero-outline">Sign up</a>
+        <a href="login.php" class="btn-hero-primary">Log in</a>
       </div>
     </div>
 
