@@ -85,7 +85,6 @@ $anime_desc = [
                         <img
                             src="<?= htmlspecialchars($anime_images[$i]) ?>"
                             alt="<?= htmlspecialchars($anime_titles[$i]) ?>"
-                            onerror="this.src='https://via.placeholder.com/300x220?text=No+Image';" />
                         <div class="anime-card-body">
                             <h3><?= htmlspecialchars($anime_titles[$i]) ?></h3>
                             <p><?= htmlspecialchars($anime_desc[$i]) ?></p>
